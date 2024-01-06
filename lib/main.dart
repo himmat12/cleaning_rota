@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   //
   //
   //
-  //  this is pull request check
+  //  this is pull request check | now this is merge conflict !!!
   //
   //
   // //
