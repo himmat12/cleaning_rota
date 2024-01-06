@@ -11,7 +11,11 @@ class MyApp extends StatelessWidget {
   //
   //
   //
+<<<<<<< HEAD
+  //  this is pull request check | this is areminder that every time you need to check main branch and pull changes or merge changes before making changes in this branch
+=======
   //  this is pull request check | now this is merge conflict !!!
+>>>>>>> 730ddec8f3f06c8544d412af00a11422d59d2195
   //
   //
   // //
@@ -32,14 +36,7 @@ class MyApp extends StatelessWidget {
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
-  // This widget is the home page of your application. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
-
-  // This class is the configuration for the state. It holds the values (in this
-  // case the title) provided by the parent (in this case the App widget) and
-  // used by the build method of the State. Fields in a Widget subclass are
-  // always marked "final".
+  
 
   final String title;
 
