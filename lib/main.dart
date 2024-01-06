@@ -11,7 +11,11 @@ class MyApp extends StatelessWidget {
   //
   //
   //
+<<<<<<< HEAD
   //  this is pull request check | this is areminder that every time you need to check main branch and pull changes or merge changes before making changes in this branch
+=======
+  //  this is pull request check | now this is merge conflict !!!
+>>>>>>> 730ddec8f3f06c8544d412af00a11422d59d2195
   //
   //
   // //
